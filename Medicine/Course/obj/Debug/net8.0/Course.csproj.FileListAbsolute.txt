@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\bin\Debug\net8.0\Course.exe
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\bin\Debug\net8.0\Course.deps.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\bin\Debug\net8.0\Course.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\bin\Debug\net8.0\Course.pdb
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\refint\Course.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.pdb
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Course\obj\Debug\net8.0\ref\Course.dll

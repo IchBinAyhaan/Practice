@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\bin\Debug\net8.0\Medicine.exe
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\bin\Debug\net8.0\Medicine.deps.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\bin\Debug\net8.0\Medicine.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\bin\Debug\net8.0\Medicine.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\bin\Debug\net8.0\Medicine.pdb
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\refint\Medicine.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.pdb
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\Medicine.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Medicine\obj\Debug\net8.0\ref\Medicine.dll

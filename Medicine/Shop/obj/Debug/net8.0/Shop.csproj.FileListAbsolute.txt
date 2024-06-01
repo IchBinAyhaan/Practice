@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\bin\Debug\net8.0\Shop.exe
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\bin\Debug\net8.0\Shop.deps.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\bin\Debug\net8.0\Shop.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\bin\Debug\net8.0\Shop.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\bin\Debug\net8.0\Shop.pdb
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\refint\Shop.dll
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.pdb
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\Shop.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan13\Medicine\Shop\obj\Debug\net8.0\ref\Shop.dll
